@@ -1,0 +1,7 @@
+Code-Review+2: RDO CI Service Account <openstack-ci-service@redhat.com>
+Verified+1: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-by: RDO CI Service Account <openstack-ci-service@redhat.com>
+Submitted-at: Tue, 28 Jul 2015 23:43:18 +0200
+Reviewed-on: https://review.gerrithub.io/241633
+Project: rdo-puppet-modules/puppet-horizon
+Branch: refs/heads/recomb-original-master-beb286321020aadde1c97889784665a12e230677
